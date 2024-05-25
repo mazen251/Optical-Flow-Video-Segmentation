@@ -75,7 +75,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 Mazen Walid - [@Mazen Walid](https://www.linkedin.com/in/mazen-walid-225582208/)
 
 ## Acknowledgements
-- [TensorFlow](https://www.tensorflow.org/)
-- [YOLO](https://pjreddie.com/darknet/yolo/)
 - [OpenCV](https://opencv.org/)
-- [Haar Cascade](https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html)
+- [NumPy](https://numpy.org/)
