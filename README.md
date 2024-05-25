@@ -69,7 +69,7 @@ Contributions are welcomed to improve this project. To contribute, please follow
 - Open a pull request.
 
 ## License
-This project is licensed under the MIT License. See the \`LICENSE\` file for more details.
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Contact
 Mazen Walid - [@Mazen Walid](https://www.linkedin.com/in/mazen-walid-225582208/)
